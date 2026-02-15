@@ -21,7 +21,7 @@
     "@storybook/react": "^7.0.26",
     "@storybook/react-webpack5": "^7.0.26",
     "@storybook/testing-library": "^0.0.14-next.2",
-    "babel-loader": "^8.2.5",
+    "babel-loader": "^9.0.0",
     "clsx": "^1.2.1",
     "eslint-plugin-storybook": "^0.6.12",
     "react": "^18.2.0",
